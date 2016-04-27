@@ -1,0 +1,11 @@
+{
+    "web_hook_url":"",
+    "orgname": "",
+    "channel":"",
+    "username": "",
+    "github_token":"",
+    "repositories":[],
+    "github2slack":{
+        "giwa":"@giwa"
+    }
+}
