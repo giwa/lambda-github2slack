@@ -16,7 +16,7 @@ token = conf['github_token']
 repos = conf['repositories']
 channel = conf['channel']
 username = conf['username']
-orgname = ['orgname']
+orgname = conf['orgname']
 
 git2slack= conf['github2slack']
 
